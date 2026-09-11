@@ -5,7 +5,7 @@
 
 DrawAlive is a family-oriented creative application that helps users turn drawings and photographs into generated images and short videos. This Privacy Policy explains what information DrawAlive processes, why we process it, how long we keep it, when it is shared, and the choices and rights available to you.
 
-DrawAlive is operated under the DrawAlive brand by the publisher identified in the applicable Apple App Store listing. For privacy questions or requests, contact **matt1232026@gmail.com**. You can also visit **https://drawalive.app**.
+DrawAlive is operated under the DrawAlive brand by the publisher identified in the applicable Apple App Store listing. For privacy questions or requests, contact **matt1232026@gmail.com**. You can also visit **https://lee271420-ship-it.github.io/drawalive-website/**.
 
 This Policy applies to the DrawAlive iOS application, the DrawAlive website, and related services that link to this Policy (collectively, the “Service”). It does not apply to third-party services that have their own privacy notices.
 
@@ -146,7 +146,7 @@ Privacy questions, requests, and complaints can be sent to:
 
 **DrawAlive Privacy Support**  
 Email: **matt1232026@gmail.com**  
-Website: **https://drawalive.app**
+Website: **https://lee271420-ship-it.github.io/drawalive-website/**
 
 Please do not include passwords, payment-card numbers, or unnecessary sensitive information in an email.
 

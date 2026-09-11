@@ -7,7 +7,7 @@ These User Agreement and Terms of Use (“Terms”) govern your use of the DrawA
 
 By tapping “Agree and continue”, downloading, accessing, or using the Service, you confirm that you have read and accept these Terms and the **[DrawAlive Privacy Policy](https://gist.github.com/lee271420-ship-it/d53da66663938612869ccd742ce8b244)**. If you do not agree, do not use the Service.
 
-DrawAlive is operated under the DrawAlive brand by the publisher identified in the applicable Apple App Store listing. Questions about these Terms can be sent to **matt1232026@gmail.com**. The Service website is **https://drawalive.app**.
+DrawAlive is operated under the DrawAlive brand by the publisher identified in the applicable Apple App Store listing. Questions about these Terms can be sent to **matt1232026@gmail.com**. The Service website is **https://lee271420-ship-it.github.io/drawalive-website/**.
 
 ## 1. Eligibility and family use
 
@@ -135,7 +135,7 @@ We may update these Terms when the Service, plans, providers, or legal requireme
 
 **DrawAlive Support**  
 Email: **matt1232026@gmail.com**  
-Website: **https://drawalive.app**
+Website: **https://lee271420-ship-it.github.io/drawalive-website/**
 
 When contacting support, do not send passwords, payment-card numbers, or unnecessary sensitive information.
 
