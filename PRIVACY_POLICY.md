@@ -1,7 +1,7 @@
 # DrawAlive Privacy Policy
 
 **Effective date:** September 11, 2026  
-**Last updated:** September 11, 2026
+**Last updated:** November 16, 2026
 
 DrawAlive is a family-oriented creative application that helps users turn drawings and photographs into generated images and short videos. This Privacy Policy explains what information DrawAlive processes, why we process it, how long we keep it, when it is shared, and the choices and rights available to you.
 
