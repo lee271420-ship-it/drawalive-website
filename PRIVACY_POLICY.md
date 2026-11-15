@@ -40,6 +40,7 @@ Depending on the request and the platform, we may also process:
 
 - app version, operating-system version, device model, language, and time zone;
 - request timestamps, feature selections, job identifiers, status, latency, and error information;
+- pseudonymous product-interaction events, including app opens, screens visited, drawing and generation steps, subscription-page interactions, and purchase outcomes, to understand usage and improve the Service; these analytics events do not include your drawings, photos, names, email addresses, or payment-card details;
 - approximate network and security information that infrastructure providers ordinarily receive when handling a request, such as IP address and request headers; and
 - diagnostic information needed to investigate crashes, abuse, fraud, or service failures.
 
@@ -130,7 +131,7 @@ We use reasonable administrative, technical, and organisational safeguards appro
 
 ## 10. Cookies and similar technologies
 
-The DrawAlive website may use essential cookies or similar technologies needed to operate the site, remember preferences, protect forms, and understand basic aggregate traffic. The iOS MVP does not use advertising identifiers or third-party advertising SDKs. If we introduce non-essential analytics, advertising, or similar technologies, we will update this Policy and provide any choices required by law.
+The DrawAlive website may use essential cookies or similar technologies needed to operate the site, remember preferences, protect forms, and understand basic aggregate traffic. The app uses its pseudonymous identifier to collect the product-interaction analytics described above. It does not use advertising identifiers or third-party advertising SDKs. We provide any choices required by law.
 
 ## 11. Data breach and communications
 
